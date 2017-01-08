@@ -1,6 +1,6 @@
 {
   "name": "node-steam-id",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An NPM package of https://github.com/seishun/node-steam/blob/master/lib/steamID.js",
   "engines": {
     "node": "^4.1"
