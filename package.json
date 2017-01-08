@@ -11,7 +11,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nicholas <vvnicholas@gmail.com>",
+  "author": "Stu Radnidge <sturadnidge@gmail.com>",
+  "contributors": [
+    {
+      "name": "Nicholas",
+      "email": "vvnicholas@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sturadnidge/node-steam-user.git"
+  },
   "license": "MIT",
   "dependencies": {
     "bytebuffer": "^5"
